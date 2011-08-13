@@ -1,4 +1,3 @@
-
 For demos and docs see:
 http://labs.skinkers.com/touchSwipe
 
@@ -7,3 +6,8 @@ http://plugins.jquery.com/project/touchSwipe
 
 For port to XUI see:
 https://github.com/cowgp/xui-touchSwipe
+
+
+
+Note:
+The minified version compiled by Google Closure Compiler isn't tested yet.
