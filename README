@@ -9,5 +9,5 @@ https://github.com/cowgp/xui-touchSwipe
 
 
 
-Note:
+Note to touchswipe.jquery.min-gcc.js:
 The minified version compiled by Google Closure Compiler isn't tested yet.
